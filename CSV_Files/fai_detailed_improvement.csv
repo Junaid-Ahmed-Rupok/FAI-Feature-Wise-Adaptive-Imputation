@@ -1,0 +1,10 @@
+Mechanism,Missing_Rate_%,FAI_Accuracy,Best_Baseline_Acc,Acc_Improvement_vs_Best_%,Worst_Baseline_Acc,Acc_Improvement_vs_Worst_%,FAI_F1,Best_Baseline_F1,F1_Improvement_vs_Best_%,FAI_AUC,Best_Baseline_AUC,AUC_Improvement_vs_Best_%
+MCAR,5,0.8639,0.8656 (MICE),-0.17%,0.8601 (KNN),+0.38%,0.6893,0.6935 (MICE),-0.42%,0.7830,0.7857 (MICE),-0.27%
+MAR,5,0.8520,0.8578 (KNN),-0.58%,0.8414 (missForest),+1.06%,0.6685,0.6694 (missForest),-0.09%,0.7727,0.7819 (missForest),-0.92%
+MNAR,5,0.8463,0.8486 (Mean),-0.23%,0.8277 (Median),+1.86%,0.6501,0.6538 (Mean),-0.37%,0.7598,0.7616 (Mean),-0.18%
+MCAR,10,0.8586,0.8633 (Mean),-0.47%,0.8561 (Median),+0.25%,0.6731,0.6833 (Mean),-1.02%,0.7719,0.7776 (Mean),-0.57%
+MAR,10,0.8443,0.8452 (MICE),-0.09%,0.8225 (KNN),+2.18%,0.6144,0.6469 (KNN),-3.25%,0.7320,0.7723 (KNN),-4.03%
+MNAR,10,0.8262,0.8268 (Mean),-0.06%,0.8228 (Median),+0.34%,0.5951,0.6011 (Mean),-0.60%,0.7253,0.7296 (Mean),-0.43%
+MCAR,15,0.8447,0.8512 (MICE),-0.65%,0.8444 (KNN),+0.03%,0.6439,0.6538 (Mean),-0.99%,0.7553,0.7602 (Mean),-0.49%
+MAR,15,0.8325,0.8355 (MICE),-0.30%,0.8209 (missForest),+1.16%,0.5662,0.5909 (missForest),-2.47%,0.7033,0.7240 (missForest),-2.07%
+MNAR,15,0.8179,0.8219 (MICE),-0.40%,0.8107 (Median),+0.72%,0.5725,0.5803 (MICE),-0.78%,0.7115,0.7159 (MICE),-0.44%
