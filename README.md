@@ -1,4 +1,4 @@
-markdown
+```markdown
 <div align="center">
 
 # 🧠 FAI: Feature-Wise Adaptive Imputation
@@ -13,7 +13,7 @@ markdown
 
 <br/>
 
-> A machine learning framework that **automatically selects the best imputation method per feature**,  
+> A machine learning framework that **automatically selects the best imputation method per feature**,
 > optimizing for **downstream predictive performance** — not just imputation error.
 
 <br/>
@@ -125,15 +125,15 @@ Raw Data with Missing Values
 
 | Accuracy Comparison | F1 Score Comparison |
 |:-------------------:|:-------------------:|
-| ![Accuracy](Images/figure_accuracy_comparison.png) | ![F1](Images/figure_f1_comparison.png) |
+| <img src="Images/figure_accuracy_comparison.png" width="400"/> | <img src="Images/figure_f1_comparison.png" width="400"/> |
 
 | AUC Comparison | Method Selection Heatmap |
 |:--------------:|:------------------------:|
-| ![AUC](Images/figure_auc_comparison.png) | ![Heatmap](Images/figure_method_selection_heatmap.png) |
+| <img src="Images/figure_auc_comparison.png" width="400"/> | <img src="Images/figure_method_selection_heatmap.png" width="400"/> |
 
 | Feature Descriptor Importance |
 |:-----------------------------:|
-| ![Importance](Images/figure_descriptor_importance.png) |
+| <img src="Images/figure_descriptor_importance.png" width="600"/> |
 
 </div>
 
