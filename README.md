@@ -203,20 +203,5 @@ If this work helped you, please consider:
 
 ---
 
-## ✅ What This README Includes:
-
-| Section | Status |
-|---------|--------|
-| Professional badges | ✅ |
-| Overview & methodology | ✅ |
-| All 10 images displayed | ✅ |
-| Results table | ✅ |
-| All 6 CSV files linked | ✅ |
-| Repository structure | ✅ |
-| Run instructions (Colab + Local) | ✅ |
-| Requirements table | ✅ |
-| Citation (BibTeX) | ✅ |
-| Author info | ✅ |
-| MIT License | ✅ |
 
 
