@@ -35,19 +35,19 @@ markdown
 ## 📊 Experimental Results
 
 ### 🔹 Accuracy Comparison
-![Accuracy Comparison](Images/figure_accuracy_comparison.png)
+![Accuracy Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_accuracy_comparison.png)
 
 ### 🔹 F1 Score Comparison
-![F1 Score Comparison](Images/figure_f1_comparison.png)
+![F1 Score Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_f1_comparison.png)
 
 ### 🔹 AUC Comparison
-![AUC Comparison](Images/figure_auc_comparison.png)
+![AUC Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_auc_comparison.png)
 
 ### 🔹 Method Selection Heatmap
-![Method Selection Heatmap](Images/figure_method_selection_heatmap.png)
+![Method Selection Heatmap](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_method_selection_heatmap.png)
 
 ### 🔹 Feature Descriptor Importance
-![Descriptor Importance](Images/figure_descriptor_importance.png)
+![Descriptor Importance](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_descriptor_importance.png)
 
 ---
 
@@ -196,12 +196,7 @@ If this work helped you, please consider:
 
 ---
 
-> *“The best imputation method is not the same for every feature — FAI learns to choose wisely.”*
+> *"The best imputation method is not the same for every feature — FAI learns to choose wisely."*
 
 **Built with ❤️ by Junaid Ahmed**
 ```
-
----
-
-
-
