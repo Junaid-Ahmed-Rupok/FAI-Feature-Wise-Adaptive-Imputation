@@ -1,4 +1,4 @@
-```markdown
+markdown
 # 🧠 FAI: Feature-Wise Adaptive Imputation
 
 > *"One imputation method does not fit all features — FAI learns to choose wisely."*
