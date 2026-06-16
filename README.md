@@ -1,4 +1,4 @@
-markdown
+```markdown
 # 🧠 FAI: Feature-Wise Adaptive Imputation
 
 > *"One imputation method does not fit all features — FAI learns to choose wisely."*
@@ -35,19 +35,19 @@ markdown
 ## 📊 Experimental Results
 
 ### 🔹 Accuracy Comparison
-![Accuracy Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_accuracy_comparison.png)
+![Accuracy Comparison](Images/figure_accuracy_comparison.png)
 
 ### 🔹 F1 Score Comparison
-![F1 Score Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_f1_comparison.png)
+![F1 Score Comparison](Images/figure_f1_comparison.png)
 
 ### 🔹 AUC Comparison
-![AUC Comparison](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_auc_comparison.png)
+![AUC Comparison](Images/figure_auc_comparison.png)
 
 ### 🔹 Method Selection Heatmap
-![Method Selection Heatmap](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_method_selection_heatmap.png)
+![Method Selection Heatmap](Images/figure_method_selection_heatmap.png)
 
 ### 🔹 Feature Descriptor Importance
-![Descriptor Importance](https://raw.githubusercontent.com/Junaid-Ahmed-Rupok/FAI-Feature-Wise-Adaptive-Imputation/main/Images/figure_descriptor_importance.png)
+![Descriptor Importance](Images/figure_descriptor_importance.png)
 
 ---
 
