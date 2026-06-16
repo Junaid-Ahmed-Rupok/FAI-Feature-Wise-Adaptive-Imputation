@@ -219,6 +219,4 @@ If this work helped you, please consider:
 | Author info | ✅ |
 | MIT License | ✅ |
 
----
 
-**Copy-paste this entire block into your GitHub README.md file and commit it.** Your repository will look polished, complete, and ready to impress professors and recruiters alike.
